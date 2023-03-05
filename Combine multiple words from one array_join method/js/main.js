@@ -11,3 +11,5 @@ function smash(words) {
 }
 
  smash(['hello', 'world', 'this', 'is', 'great'])
+
+ 
