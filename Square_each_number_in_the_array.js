@@ -24,3 +24,5 @@ function squareSum(numbers){
 
 >>>>>>> 6ae3e10a6f68050cba12ebc1fef7bd5827dc01ef
 squareSum([1,2,3,4])
+
+test
